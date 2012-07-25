@@ -1,0 +1,37 @@
+<NotepadPlus>
+    <UserLang name="TPL" ext="tpl tplpre" commentLine="" commentStart="&lt;!--" commentEnd="--&gt;">
+        <Settings>
+            <Global caseIgnored="no" />
+            <TreatAsSymbol comment="no" commentLine="no" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&apos;&quot;0&apos;&quot;0</Keywords>
+            <Keywords name="Folder+">#RESEARCHSTART #TODOSTART #IFADDM identify constants pattern triggers body table configuration metadata define overview if for html h1 h2 h3 h4</Keywords>
+            <Keywords name="Folder-">#RESEARCHEND #TODOEND #ENDIFADDM /body /table /configuration /metadata /define /overview /if /for /html /h1 /h2 /h3 /h4</Keywords>
+            <Keywords name="Operators">- % &amp; ( ) * . : ^ | ~ + &lt; = &gt;</Keywords>
+            <Keywords name="Comment">1&apos;&apos;&apos; 2&apos;&apos;&apos; 0//</Keywords>
+            <Keywords name="Words1">aged and as at break by continue created default defined deleted desc do exists expand explode false flags from has import in is locale matches modified module nodecount nodes none not on or order out overrides processwith relationship removal requires search show step stop substring subword summary tags taxonomy tpl traverse true unconfirmed where with</Keywords>
+            <Keywords name="Words2">definitions then else elif end #ELSE #ELIFADDM #INCLUDE #DEFINE #UNDEF </Keywords>
+            <Keywords name="Words3">:= &lt; &gt; &gt;= &lt;= /</Keywords>
+            <Keywords name="Words4">raw regex unix_cmd windows_cmd</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="3" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="3" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="3" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="800080" bgColor="FFFFFF" fontName="" fontStyle="2" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="008040" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="8080FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="8080FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+
+</NotepadPlus>
